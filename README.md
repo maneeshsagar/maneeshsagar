@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maneesh Sagar
 - 👀 I’m interested in Software Development and Deep leraning related works.
-- 🌱 I’m currently learning Django, Docker and CicleCi.
 - 🤓 I have also worked on Android Development, Java , c++ and python.
 - 💼 I have work experience of 1 year.
 - 💞️ I’m looking to collaborate on Deep Learning, Software development
