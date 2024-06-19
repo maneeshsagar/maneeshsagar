@@ -2,7 +2,7 @@
 - Currently working with Kreditbee as Backend Developer (Go).
 - 👀 I’m interested in Software Development and Deep leraning related works.
 - 🤓 I have also worked on Android Development, Java , c++ and python.
-- 💼 I have work experience of 1 year.
+- 💼 I have work experience of 3 year.
 - 💞️ I’m looking to collaborate on Deep Learning, Software development
 - 📫 You can reach out to me at maneeshsagar97@gamil.com
 
