@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maneesh Sagar
-- Currently working with Kreditbee as Backend Developer (Go).
+- Currently working with NPCI as Senior Software Engineer.
 - 👀 I’m interested in Software Development and Deep leraning related works.
 - 🤓 I have also worked on Android Development, Java , c++ and python.
 - 💼 I have work experience of 3 year.
