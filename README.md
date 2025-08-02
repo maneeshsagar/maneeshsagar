@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Maneesh Sagar
 - Currently working with NPCI as Senior Software Engineer.
 - 👀 I’m interested in Software Development and Deep leraning related works.
-- 🤓 I have also worked on Android Development, Java , c++ and python.
-- 💼 I have work experience of 3 year.
-- 💞️ I’m looking to collaborate on Deep Learning, Software development
+- 🤓 I have also worked on Android Development, Golang, Rust , c++ and python.
+- 💼 I have work experience of 4 year.
+- 💞️ I’m looking to collaborate on Golang, Rust, Deep Learning, Software development
 - 📫 You can reach out to me at maneeshsagar97@gamil.com
 
 <!---
